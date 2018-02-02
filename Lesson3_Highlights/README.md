@@ -13,7 +13,7 @@ Web Application Development
 ## Project Description:
 (This websites summarizes the version control systems that were covered in lesson 3. Local and Remote Git Repository and its command are discussed in detail)
 ## View Project
-https://ide.c9.io/kibineshfulas/fulas_lesson3_versioncontrol1
+https://kibinesh.github.io/lesson3_VersionControl1/
 
 ## Lessons Learned in the Assignment:
 1. (What version control is and its evolution over time.)
